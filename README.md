@@ -45,7 +45,7 @@ Here is the folder structure of this app.
 
 <!--- FOLDER_STRUCTURE_START --->
 ```bash
-modern-portfolio/
+muhammad-shahzad-khadim-portfolio/
   |- components/
     |-- Avatar.jsx
     |-- Bulb.jsx
@@ -63,6 +63,8 @@ modern-portfolio/
     |-- TopLeftImg.jsx
     |-- Transition.jsx
     |-- WorkSlider.jsx
+  |- data/
+    |-- portfolioData.js
   |- pages/
     |-- about/
     |-- contact/
